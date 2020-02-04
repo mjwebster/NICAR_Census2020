@@ -1,7 +1,3 @@
----
-layout: page
-title: Links
----
 
 # Annotated links to Census Bureau resources
 
