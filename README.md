@@ -1,6 +1,7 @@
 # NICAR2020: Covering the 2020 Census
 
 ###Tipsheets:
+
 [tipsheets/guide_to_perplexed](Return rates vs response rates)
 
 
