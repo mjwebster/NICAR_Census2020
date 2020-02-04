@@ -1,17 +1,18 @@
 
-#Census return rates vs response rates: A guide to the perplexed
+# Census return rates vs response rates: A guide to the perplexed
 
 The Census Bureau uses two confusingly similar yardsticks to measure how well the public responds to a census. One is called the "response rate," (or "mail response rate" in 2010, when mailing the census form back was the main way to respond.) The other is the "return rate" (formerly "mail return rate.")
 
 The response rate is quicker to calculate but less precise. The return rate is more precise but takes data that isn't available until late stages of the census. It helps to think about them as answers to a similar question asked from two different viewpoints:
 
--- The response rate is from the Census Bureau's viewpoint: We sent out 100 invitations -- how many *responses* did we get?
--- The return rate is from our viewpoint: 100 of us got invitations -- how many of us *returned* them?
+```markdown
+- The response rate is from the Census Bureau's viewpoint: We sent out 100 invitations -- how many *responses* did we get?
+- The return rate is from our viewpoint: 100 of us got invitations -- how many of us *returned* them?
 
 The key difference: The return rate doesn't include invitations to respond:
--- That the U.S. Postal Service returns to the Census Bureau as "undeliverable as addressed";
--- That were sent to addresses that are eventually determined to be vacant;
--- That were sent to addresses that are eventually deleted (because a housing unit was destroyed, converted to non-residential use, etc.)
+- That the U.S. Postal Service returns to the Census Bureau as "undeliverable as addressed";
+- That were sent to addresses that are eventually determined to be vacant;
+- That were sent to addresses that are eventually deleted (because a housing unit was destroyed, converted to non-residential use, etc.)
 
 Figuring out which addresses *not* to count for the return rate takes weeks of follow-up field work. That's why the response rate is useful. It can be calculated daily while the census is still under way. Watch for the Census Bureau to publicize this from mid-March until well into the summer.
 
@@ -26,10 +27,10 @@ The denominator of both rates includes addresses that got an invitation. In fact
 
 Like this:
 
--- Response rate =
+Response rate =
 (Unduplicated non-blank responses  / Addresses that got invitations) x 100
 
--- Return rate =
+Return rate =
 (Unduplicated non-blank responses  / Addresses that got invitations - (undeliverable + vacant + delete) ) x 100
 
 The Census Bureau says that to approximate the 2010 response rate, you can use the following variables from its 2019 Planning Database:
