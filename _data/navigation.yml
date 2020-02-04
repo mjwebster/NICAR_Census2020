@@ -2,9 +2,10 @@
 - title: Home
   url: /
 
-- title: Tipsheets
-  url: /pages/
+- title: Response rates vs Return rates
+  url: /pages/perplexed
+ 
 
-- title: Data
-  url: /data/
+- title: Annotated links
+  url: /pages/links
 
