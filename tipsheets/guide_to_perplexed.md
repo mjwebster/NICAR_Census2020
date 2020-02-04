@@ -5,7 +5,6 @@ The Census Bureau uses two confusingly similar yardsticks to measure how well th
 
 The response rate is quicker to calculate but less precise. The return rate is more precise but takes data that isn't available until late stages of the census. It helps to think about them as answers to a similar question asked from two different viewpoints:
 
-```markdown
 - The response rate is from the Census Bureau's viewpoint: We sent out 100 invitations -- how many *responses* did we get?
 - The return rate is from our viewpoint: 100 of us got invitations -- how many of us *returned* them?
 
@@ -26,18 +25,22 @@ Both rates use the same numerator -- households that have responded, whether by 
 The denominator of both rates includes addresses that got an invitation. In fact, that's the entire denominator for the response rate. The denominator for the return rate, however, starts with addresses that got an invitation but then subtracts the three categories of addresses listed above, since they couldn't return anything: undeliverables, vacants and deletes.
 
 Like this:
-
+```markdown
 Response rate =
 (Unduplicated non-blank responses  / Addresses that got invitations) x 100
-
+```
+<br>
+```markdown
 Return rate =
 (Unduplicated non-blank responses  / Addresses that got invitations - (undeliverable + vacant + delete) ) x 100
+```
 
 The Census Bureau says that to approximate the 2010 response rate, you can use the following variables from its 2019 Planning Database:
 
--- For "Unduplicated non-blank responses," use "Census_Mail_Returns_CEN_2010."
+- For "Unduplicated non-blank responses," use "Census_Mail_Returns_CEN_2010."
 It represents all housing units that returned a form.
--- For "Addresses that got invitations," use "Mailback_Area_Count_CEN_2010."
+
+- For "Addresses that got invitations," use "Mailback_Area_Count_CEN_2010."
 It represents all housing units that were sent a form.
 
 To calculate the 2010 return rate, you'll also need:
