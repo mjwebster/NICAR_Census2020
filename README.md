@@ -2,9 +2,7 @@
 
 ###Tipsheets:
 
-[tipsheets/guide_to_perplexed](Return rates vs response rates)
-
-
+<a href="tipsheets/guide_to_perplexed">Return rates vs response rates</a>
 
 ### Markdown
 
