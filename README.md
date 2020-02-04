@@ -2,10 +2,10 @@
 
 ### Tipsheets:
 
-<a href="tipsheets/guide_to_perplexed">Return rates vs response rates</a>
+<a href="tipsheets/guide_to_perplexed.md">Return rates vs response rates</a>
 
 
-<a href="tipsheets/annotated_links">Annotated links to Census resources</a>
+<a href="tipsheets/annotated_links.md">Annotated links to Census resources</a>
 
 ### Markdown
 
