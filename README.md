@@ -1,4 +1,4 @@
-{% include navigation.html nav=page.nav %}
+{% include nav.html nav=page.nav %}
 
 # A guide for data journalists covering the 2020 Census
 
