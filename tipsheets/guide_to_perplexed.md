@@ -29,8 +29,8 @@ Like this:
 Response rate =
 (Unduplicated non-blank responses  / Addresses that got invitations) x 100
 ```
-<br>
-```markdown
+
+```markdown 
 Return rate =
 (Unduplicated non-blank responses  / Addresses that got invitations - (undeliverable + vacant + delete) ) x 100
 ```
@@ -44,8 +44,8 @@ It represents all housing units that returned a form.
 It represents all housing units that were sent a form.
 
 To calculate the 2010 return rate, you'll also need:
--- Undeliverable: Use "Census_UAA_CEN_2010."
--- Vacant: Use "Vacants_CEN_2010."
--- Delete: Use "Deletes_CEN_2010."
+- Undeliverable: Use "Census_UAA_CEN_2010."
+- Vacant: Use "Vacants_CEN_2010."
+- Delete: Use "Deletes_CEN_2010."
 
 <a href="https://www.census.gov/topics/research/guidance/planning-databases.html">The 2019 Planning Database can be found here</a>
