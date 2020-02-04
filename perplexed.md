@@ -48,4 +48,4 @@ To calculate the 2010 return rate, you'll also need:
 - Vacant: Use "Vacants_CEN_2010."
 - Delete: Use "Deletes_CEN_2010."
 
-<a href="https://www.census.gov/topics/research/guidance/planning-databases.html">The 2019 Planning Database can be found here</a>
+[The 2019 Planning Database can be found here](https://www.census.gov/topics/research/guidance/planning-databases.html)
