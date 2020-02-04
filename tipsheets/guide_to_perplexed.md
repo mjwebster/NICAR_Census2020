@@ -19,7 +19,7 @@ It's useful to think of the response rate as similar to election night vote tall
 
 The return rate is a better measure of the civic response to the request (and legal obligation) to be counted. So it's heartening that it's higher than the response rate, sometimes substantially so. In 2010, the nationwide final return rate was 79 percent, while the response rate was just 67 percent.
 
-Calculating the rates
+## Calculating the rates
 Both rates use the same numerator -- households that have responded, whether by mail, online or by phone. (If a household responds more than once, the Census Bureau tries to catch that and count only one.)
 
 The denominator of both rates includes addresses that got an invitation. In fact, that's the entire denominator for the response rate. The denominator for the return rate, however, starts with addresses that got an invitation but then subtracts the three categories of addresses listed above, since they couldn't return anything: undeliverables, vacants and deletes.
@@ -35,6 +35,7 @@ Return rate =
 (Unduplicated non-blank responses  / Addresses that got invitations - (undeliverable + vacant + delete) ) x 100
 ```
 
+## Database variables
 The Census Bureau says that to approximate the 2010 response rate, you can use the following variables from its 2019 Planning Database:
 
 - For "Unduplicated non-blank responses," use "Census_Mail_Returns_CEN_2010."
