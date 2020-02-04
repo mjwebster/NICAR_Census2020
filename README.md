@@ -1,5 +1,7 @@
 # NICAR2020: Covering the 2020 Census
 
+/tipsheets/Return rates vs. response rates
+
 
 
 ### Markdown
