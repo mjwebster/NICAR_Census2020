@@ -1,40 +1,15 @@
 # NICAR2020: Covering the 2020 Census
 
+This website contains resources for journalists covering the 2020 Census and will be the handout material for a NICAR20 conference session <a href="https://ireapps.github.io/nicar-2020-schedule#20200305_countdown_to_the_big_count_getting_ready_for_census_2020_2055">Countdown to the big count: Getting ready for Census 2020"</a>. Materials compiled by Paul Overberg (Wall Street Journal), MaryJo Webster (Star Tribune) and Gerson Vasquez (U.S. Census Bureau)
+
 ### Tipsheets:
 
 <a href="tipsheets/guide_to_perplexed.md">Return rates vs response rates</a>
 
-
 <a href="tipsheets/annotated_links.md">Annotated links to Census resources</a>
 
-### Markdown
+### Data files:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mjwebster/NICAR_Census2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
