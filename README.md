@@ -4,7 +4,7 @@ This website contains resources for journalists covering the 2020 Census and wil
 
 ### Tipsheets:
 
-<a href="tipsheets/guide_to_perplexed.md">Return rates vs response rates</a>
+<a href="perplexed.md">Return rates vs response rates</a>
 
 <a href="tipsheets/annotated_links.md">Annotated links to Census resources</a>
 
