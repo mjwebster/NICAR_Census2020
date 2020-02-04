@@ -1,3 +1,9 @@
+---
+layout: page
+title: Covering Census 2020
+tagline: Materials for data journalists
+---
+
 # Annotated links to Census Bureau resources
 
 ## Map: Census Bureau interactive map showing tract-level likelihood to answer the census.
