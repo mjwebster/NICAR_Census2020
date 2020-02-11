@@ -1,0 +1,11 @@
+docs:
+  - title: Tipsheets
+    children:
+      - title: "Annotated links"
+        url: /pages/links
+      - title: "Return rates vs. Response rates"
+        url: /pages/perplexed/
+  - title: Data
+    children:
+      - title: "test page"
+        url: /pages/links
