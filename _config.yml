@@ -1,11 +1,4 @@
 theme: jekyll-theme-tactile
 title: Covering Census 2020
 baseurl: /NICAR_Census2020
-defaults:
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      sidebar:
-        nav: "docs"
+
