@@ -7,6 +7,8 @@
 
 * How has federal funding (dictated by Census counts) been distributed? <a href="https://gwipp.gwu.edu/counting-dollars-2020-role-decennial-census-geographic-distribution-federal-funds">This study provides breakdowns by state</a>, including a spreadsheet showing the amounts distributed to each state from 55 large Census-guided federal expenditure programs in FY2016.<a href="https://gwipp.gwu.edu/sites/g/files/zaxdzs2181/f/downloads/CFD%20%235%20--%2055%20Large%20Census-guided%20Programs%20by%20State%20FY2016.xlsx">The spreadsheet can be downloaded here.</a>
 
+* Does "prison gerrymandering" happen in your state? Read more about <a href="https://www.valdostadailytimes.com/news/ga_fl_news/ghost-populations-prisoners-who-can-t-vote-counted-in-census/article_f80ecfe6-4386-11ea-8c08-1336678e9e7c.html"> prison gerrymandering here.</a>
+
 ## Early 2021:
 * Redistricting
 
