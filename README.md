@@ -10,6 +10,11 @@ This website contains resources for journalists covering the 2020 Census and wil
 
 <a href="pages/storyideas">Story ideas</a>
 
+<a href="pages/differentialprivacy">What is differential privacy?</a>
+
+### Misc:
+<a href="https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires/2020.html">2020 Census Sample Form</a>
+
 ### Data files:
 
 
