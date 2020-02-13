@@ -6,6 +6,10 @@ This website contains resources for journalists covering the 2020 Census and wil
 
 <a href="pages/links">Annotated links to Census resources</a>
 
+<a href="pages/data">What data is available and when?</a>
+
+<a href="pages/storyideas">Story ideas</a>
+
 ### Data files:
 
 
