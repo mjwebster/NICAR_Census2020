@@ -16,7 +16,7 @@ This website contains resources for journalists covering the 2020 Census and wil
 <a href="https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires/2020.html">2020 Census Sample Form</a>
 
 ### Data files:
-<a href="data/data">Downloadable data files</a>
+<a href="pages/data">Downloadable data files</a>
 
 
 
