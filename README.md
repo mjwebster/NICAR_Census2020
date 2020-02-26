@@ -12,6 +12,8 @@ This website contains resources for journalists covering the 2020 Census and wil
 
 <a href="pages/differentialprivacy">What is differential privacy?</a>
 
+<a href="https://www2.census.gov/programs-surveys/decennial/2020/program-management/memo-series/2020-memo-2018_04-appendix.pdf">Who gets counted where?"</a> More information <a href="https://www.census.gov/programs-surveys/decennial-census/2020-census/about/residence-rule.html">also available here.</a>
+
 ### Misc:
 <a href="https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires/2020.html">2020 Census Sample Form</a>
 
