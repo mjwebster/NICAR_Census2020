@@ -36,11 +36,11 @@ The Census Bureau will release a breakdown of types of group quarters at block l
 
 
 ## Later in 2021:
-* New on this Census, respondents identifying as black or African American will have the opportunity to identify their origin (i.e. Somali, Ethiopian, Haitian, etc.). Since there isn't prior data on this, the primary way to use it will to identify which subgroups are living in your communities, and identifying where there are dense pockets of them living will help point you to where you should be knocking on doors for interviews. This will likely show up in Summary File 1.
+* New on this Census, respondents identifying as black or African American will have the opportunity to identify their origin (i.e. Somali, Ethiopian, Haitian, etc.). Since there isn't prior data on this, the primary way to use it will to identify which subgroups are living in your communities, and identifying where there are dense pockets of them living will help point you to where you should be knocking on doors for interviews.
 
 * Lots of opportunities to look at household relationships: multigenerational families, grandparents raising their grandkids, same-sex married or unmarried couples, etc.
 
-* Aging. What places have the highest median age? (indicating high density of elderly) Are they struggling to provide enough services to the elderly? Or to find working-age people to take the jobs needed, especially those to support the elderly? Age-specific data will show up in the Summary File 1. There will also be age breakdowns for each racial group and Hispanic/Latino that will allow you to see trends within those specific groups, as well.
+* Aging. What places have the highest median age? (indicating high density of elderly) Are they struggling to provide enough services to the elderly? Or to find working-age people to take the jobs needed, especially those to support the elderly? There should also be age breakdowns for each racial group and Hispanic/Latino that will allow you to see trends within those specific groups, as well.
 
 
 
