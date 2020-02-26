@@ -5,10 +5,9 @@
 
 * You can find numbers on <a href="https://www.census.gov/coverage_measurement/post-enumeration_surveys/2010_results.html">undercounts</a> (who gets missed, who gets counted twice and the net) for each state and places or counties with 100,000+ people from the 2010 census. Heads-up: Looks for "Summaries of estimate of coverage for states, places and counties" and use pull-down menu to pick your state. Warning, they are PDFs! (You'll also see this was released in May 2012, which means we'll see the 2020 version of this in 2022) 
 
+* How an undercount in your community might affect programs like SNAP, WIC and Section 8. <a href="https://www.dallasnews.com/news/2020/01/27/how-a-2020-census-undercount-would-hurt-efforts-to-fight-poverty-in-dallas-for-the-next-decade/">See story from Obed Manuel at the Dallas Morning News</a> for inspriation.  He used data from this study on how  federal funding has been distributed in the past <a href="https://gwipp.gwu.edu/counting-dollars-2020-role-decennial-census-geographic-distribution-federal-funds">. This study provides breakdowns by state</a>, including a spreadsheet showing the amounts distributed to each state from 55 large Census-guided federal expenditure programs in FY2016.<a href="https://gwipp.gwu.edu/sites/g/files/zaxdzs2181/f/downloads/CFD%20%235%20--%2055%20Large%20Census-guided%20Programs%20by%20State%20FY2016.xlsx">The spreadsheet can be downloaded here.</a>
+
 * Where should storm-displaced people be counted? Pew did <a href="https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2020/02/11/census-gives-opposite-advice-to-tornado-damaged-dayton-flood-ravaged-houston">this story recently.</a>
-
-* How has federal funding (dictated by Census counts) been distributed? <a href="https://gwipp.gwu.edu/counting-dollars-2020-role-decennial-census-geographic-distribution-federal-funds">This study provides breakdowns by state</a>, including a spreadsheet showing the amounts distributed to each state from 55 large Census-guided federal expenditure programs in FY2016.<a href="https://gwipp.gwu.edu/sites/g/files/zaxdzs2181/f/downloads/CFD%20%235%20--%2055%20Large%20Census-guided%20Programs%20by%20State%20FY2016.xlsx">The spreadsheet can be downloaded here.</a>
-
 
 
 ## Early 2021:
