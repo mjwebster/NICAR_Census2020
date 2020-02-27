@@ -32,7 +32,7 @@ Here are some ideas you could start preparing for, particularly by compiling the
 
 * Diversity of youth compared to adults. Since the redistricting file will have a separate racial breakdown for the 18 and over population, you could subtract this from the total population to generate racial breakdown of the under age 18 population. In most places you will likely see a stark difference in the diversity of youth compared to adults. You can then see how this is playing out in schools, child care centers, summer camps and other places that are geared toward kids.
 
-* Does "prison gerrymandering" happen in your state? Read more about <a href="https://www.valdostadailytimes.com/news/ga_fl_news/ghost-populations-prisoners-who-can-t-vote-counted-in-census/article_f80ecfe6-4386-11ea-8c08-1336678e9e7c.html"> prison gerrymandering here</a> <a href="https://www.prisonersofthecensus.org">The Prison Policy Initiative</a> has a project on prison gerrymandering. 
+* Does "prison gerrymandering" happen in your state? Read more about <a href="https://www.valdostadailytimes.com/news/ga_fl_news/ghost-populations-prisoners-who-can-t-vote-counted-in-census/article_f80ecfe6-4386-11ea-8c08-1336678e9e7c.html"> prison gerrymandering here.</a> Also, <a href="https://www.prisonersofthecensus.org">The Prison Policy Initiative</a> has a project on prison gerrymandering. 
 The Census Bureau will release a breakdown of types of group quarters at block level in the first big wave of data used by legislatures. (That will be published state by state in February and March of 2021.) This will be a first. That way, states can subtract prison populations from any place they like and use their own records on inmates' previous residence to move them elsewhere.
 
 
