@@ -7,6 +7,9 @@
 
 <a href="2020_Census_Paid_Media_Campaign_Buy_List.xlsx">2020 Census Paid Media Buy List</a>
 
+## Mid-March 2020:
+<a href="https://2020census.gov/en/response-rates.html">Find daily updates of the 2020 response rates</a> down to census tract beginning March 20 through end of June. They are supposed to expose an API as well.
+
 ## Feb-March 2021:
 Redistricting File (P.L. 94-171). This contains race and ethnicity breakdowns for the whole population in each geography, plus the same breakdowns for the voting age population. It also contains one table identifying how many housing units are occupied or vacant.
 
