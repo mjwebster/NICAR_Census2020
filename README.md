@@ -3,7 +3,7 @@ This website contains resources for journalists covering the 2020 Census and wil
 ##  Slide decks:
 <a href="bit.ly/NICAR2020_Overberg_Census">Paul Overberg (WSJ) slides</a>
 
-<a href="pages/Census NICAR-IRE_2020.pptx.">Gerson Vasquez (Census Bureau) slides</a>
+<a href="pages/Census NICAR-IRE_2020.zip">Gerson Vasquez (Census Bureau) slides</a>
 
 ### Tipsheets:
 
