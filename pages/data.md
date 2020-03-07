@@ -5,7 +5,7 @@
 ## Available now:
 <a href="ParticipationRates2010.xlsx">Participation rates by county, 2000 and 2010</a>
 
-<a href="https://www.censushardtocountmaps2020.us/"> Hard to Count Areas map</a> integrates into one place many of the resources and information that the Census Bureau provides (and other data the Bureau doesn’t provide) to help census stakeholders ensure a fair and accurate 2020 count. 
+<a href="https://www.censushardtocountmaps2020.us/"> Hard to Count Areas map</a>, by CUNY Mapping Services, integrates into one place many of the resources and information that the Census Bureau provides (and other data the Bureau doesn’t provide) to help census stakeholders ensure a fair and accurate 2020 count. In March 2020, they will add the daily updates of the 2020 response rates.
 
 <a href="2020_Census_Paid_Media_Campaign_Buy_List.xlsx">2020 Census Paid Media Buy List</a>
 
