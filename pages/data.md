@@ -5,6 +5,8 @@
 ## Available now:
 <a href="ParticipationRates2010.xlsx">Participation rates by county, 2000 and 2010</a>
 
+<a href="https://www.censushardtocountmaps2020.us/"> Hard to Count Areas map</a> integrates into one place many of the resources and information that the Census Bureau provides (and other data the Bureau doesn’t provide) to help census stakeholders ensure a fair and accurate 2020 count. 
+
 <a href="2020_Census_Paid_Media_Campaign_Buy_List.xlsx">2020 Census Paid Media Buy List</a>
 
 <a href="2010_coverage_counties_cities.xlsx">Net undercounts and overcounts for cities and counties over 100,000 population.</a> Here are key bits from the Census Bureau notes: "This total population cutoff of 100,000 included the housing unit and group quarters population...We generated root mean squared error estimates in 2010 to capture the potential bias introduced from synthetic estimation. The root mean squared error provided an indication of how much error there might be in the 2010 estimates at these lower levels of geography.; For the 2000 estimates, we displayed the only measure of uncertainty that was available, the synthetic standard error, which does not capture the potential bias introduced from synthetic estimation. Hence, the 2000 measures of uncertainty may understate the error. None of the 2010 estimates showed a significant overcount or undercount. We displayed the Census 2000 results for reference. <a href="https://www.census.gov/coverage_measurement/pdfs/g03.pdf">Report is here</a>
